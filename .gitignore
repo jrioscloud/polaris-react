@@ -5,3 +5,5 @@ node_modules
 .DS_Store
 *.scss.d.ts
 /src/styles/polaris-tokens
+temp_auto_push.bat
+temp_interactive_push.bat
